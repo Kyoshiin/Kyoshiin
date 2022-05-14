@@ -14,7 +14,7 @@ Just another typical software nerd with a passion for computers, gaming & astron
 
 - 📫 You can reach me at **pratyayroy18@gmail.com**
 
-- 📃 [My CV](https://bit.ly/pratyay_cv)
+- 📃 [My CV](https://drive.google.com/file/d/1K3Mqom35N2mhs1TyeMd1_xBtmfD5iRHk/view?usp=sharing)
 
 ## Let's Connect
 
