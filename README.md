@@ -10,7 +10,7 @@ Just another typical software nerd with a passion for computers, gaming & astron
 
 - 👯 I’m looking to collaborate on **OpenSourced** projects on **Android** to learn more and improve my knowledge.
 
-- 💬 Hit me up for discussions about **Games & gaming hardware**
+- 💬 Hit me up for discussions about **Android, Java, Spring**
 
 - 📫 You can reach me at **pratyayroy18@gmail.com**
 
