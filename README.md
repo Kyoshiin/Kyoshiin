@@ -21,7 +21,7 @@ Just another typical software nerd with a passion for computers, gaming & astron
 [![Twitter Badge](https://img.shields.io/badge/-@Pratyayroy18-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Pratyayroy18)](https://twitter.com/Pratyayroy18) 
 [![Linkedin Badge](https://img.shields.io/badge/roy-pratyay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-pratyay/)](https://www.linkedin.com/in/roy-pratyay)
 [![Gmail Badge](https://img.shields.io/badge/-pratyayroy18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratyayroy18@gmail.com)](mailto:pratyayroy18@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-pratyay_roy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/pratyay_roy)](https://t.me/pratyay_roy)
+[![Telegram Badge](https://img.shields.io/badge/-pratyay_roy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/pratyay_roy)](https://t.me/kyoshin99)
 
 ## Languages & Tools
 <p align="left">
