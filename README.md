@@ -6,9 +6,9 @@ Just another typical software nerd with a passion for computers, gaming & astron
 
 - 🔭 I’m currently working on **Android Projects**.
 
-- 🌱 I’m currently learning **Spring Framework, Kotlin, Jetpack Compose**.
+- 🌱 I’m currently learning **Angular, Kotlin, Jetpack Compose**.
 
-- 👯 I’m looking to collaborate on **OpenSourced** projects on **Android** to learn more and improve my knowledge.
+- 👯 I’m looking to collaborate on **OpenSourced** projects on **Android, Java, Angular** etc to learn more and improve my knowledge.
 
 - 💬 Hit me up for discussions about **Android, Java, Spring**
 
@@ -47,7 +47,3 @@ Just another typical software nerd with a passion for computers, gaming & astron
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyay-roy&show_icons=true&locale=en&layout=compact" alt="pratyay-roy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyay-roy&show_icons=true&locale=en" alt="pratyay-roy" /></p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pratyay-roy.pratyay-roy)
-<br>
-From [Pratyay Roy](https://github.com/pratyay-roy)
