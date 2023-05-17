@@ -1,5 +1,5 @@
 # 👨‍💻Pratyay Roy
-A self-taught passionate Android Developer
+A self-taught passionate Software Engineer
 
 ## About Me
 Just another typical software nerd with a passion for computers, gaming & astronomy. I was born and brought up in Kolkata, India.
