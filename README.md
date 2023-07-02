@@ -1,16 +1,18 @@
-# 👨‍💻Pratyay Roy
-A self-taught passionate Software Engineer
+<h1 align="center">Hi, I'm Pratyay </h1>
+A self-taught, passionate Software Engineer 👨‍💻
+<!--</br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyoshiin&label=Profile%20views&color=0e75b6&style=flat" alt="Kyoshiin" /> </p> -->
 
 ## About Me
 Just another typical software nerd with a passion for computers, gaming & astronomy. I was born and brought up in Kolkata, India.
 
-- 🔭 I’m currently working on **Android Projects**.
+- 🔭 I’m currently working on **Java Projects**.
 
-- 🌱 I’m currently learning **Angular, Kotlin, Jetpack Compose**.
+- 🌱 I’m currently learning **Web development with NextJs**.
 
-- 👯 I’m looking to collaborate on **OpenSourced** projects on **Android, Java, Angular** etc to learn more and improve my knowledge.
+- 👯 I’m looking to collaborate on **OpenSourced** projects on **Android, Java, ReactJS** etc to learn more and improve my knowledge.
 
-- 💬 Hit me up for discussions about **Android, Java, Spring**
+- 💬 Hit me up for discussions about **Software engineering, gaming, PC building, personal finance**
 
 - 📫 You can reach me at **pratyayroy18@gmail.com**
 
@@ -40,10 +42,18 @@ Just another typical software nerd with a passion for computers, gaming & astron
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>    
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>  
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p><br>
 
 
+<!-- Profile STATS
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyay-roy&show_icons=true&locale=en&layout=compact" alt="pratyay-roy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyay-roy&show_icons=true&locale=en" alt="pratyay-roy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyay-roy&show_icons=true&locale=en" alt="pratyay-roy" />/p>
+-->
+
