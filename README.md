@@ -4,7 +4,7 @@ A self-taught, passionate Software Engineer 👨‍💻
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyoshiin&label=Profile%20views&color=0e75b6&style=flat" alt="Kyoshiin" /> </p> -->
 
 ## About Me
-Just another typical software nerd with a passion for computers, gaming & astronomy. I was born and brought up in Kolkata, India.
+Just another typical software nerd with a passion for computers, gaming & pc buuilding. I was born and brought up in Kolkata, India.
 
 - 🔭 I’m currently working on **Java Projects**.
 
@@ -14,7 +14,7 @@ Just another typical software nerd with a passion for computers, gaming & astron
 
 - 💬 Hit me up for discussions about **Software engineering, gaming, PC building, personal finance**
 
-- 📫 You can reach me at **pratyayroy18@gmail.com**
+- 📫 You can reach me at **pratyayr25@gmail.com**
 
 - 📃 [My CV](https://drive.google.com/file/d/1K3Mqom35N2mhs1TyeMd1_xBtmfD5iRHk/view?usp=sharing)
 
