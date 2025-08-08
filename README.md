@@ -1,16 +1,17 @@
 <h1 align="center">Hi, I'm Pratyay </h1>
-A self-taught, passionate Software Engineer 👨‍💻
+Engineering graduate with 3+ years of experience in enterprise Java development — Building cool things to fuel my curiosity… and my lazy lifestyle 😎
+
 <!--</br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kyoshiin&label=Profile%20views&color=0e75b6&style=flat" alt="Kyoshiin" /> </p> -->
 
 ## About Me
-Just another typical software nerd with a passion for computers, gaming & pc buuilding. I was born and brought up in Kolkata, India.
+Just another typical software nerd with a passion for computers, gaming & pc building. I was born and brought up in Kolkata, India.
 
 - 🔭 I’m currently working on **Java Projects**.
 
 - 🌱 I’m currently learning **Web development with NextJs**.
 
-- 👯 I’m looking to collaborate on **OpenSourced** projects on **Android, Java, ReactJS** etc to learn more and improve my knowledge.
+- 👯 I’m looking to collaborate on **OpenSourced** projects on **Java, Spring Boot, Angular** etc to learn more and improve my knowledge.
 
 - 💬 Hit me up for discussions about **Software engineering, gaming, PC building, personal finance**
 
